@@ -22,7 +22,7 @@ var config = {
         "送给我": "./imgs/songxinxin.jpeg",
         "心爱的陈姑娘": "./imgs/1.jpg",
         "今天是你的生日": "./imgs/shengri.jpeg",
-        "这是我们在一起的": "./zaiyiqi.jpg",
+        "这是我们在一起的": "../imgs/zaiyiqi.jpg",
         "第二个生日！": "./imgs/2.jpg",
         "这一年来，我见过你": "./imgs/yangzi.jpeg",
         "奇怪的样子": "./imgs/3.jpg",
